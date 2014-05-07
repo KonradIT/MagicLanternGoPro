@@ -4,6 +4,6 @@ Use this hack to get protune shots.
 
 ###How to use it
 
-Just (http://git.io/P76lMQ)[install the hack] in the SD.
+Just [install the hack](http://git.io/P76lMQ) in the SD.
 
 And start taking pictures / timelapse.
